@@ -1,6 +1,7 @@
 ## Result
 ⭐⭐⭐⭐<br>
-##Criteria <br>
+
+## Criteria <br>
 ☑️ Build Web Server <br>
 ☑️ Configuring NGINX as Reverse Proxy Server <br>
 ☑️ Implementing Limit Access in NGINX <br>
